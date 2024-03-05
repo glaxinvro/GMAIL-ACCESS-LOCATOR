@@ -22,6 +22,6 @@ echo Press Enter to open webpage file...
 pause >nul
 
 rem Open index.html file
-start https://glaxinopp.000webhostapp.com/index.html
+start http://localhost:300
 
 pause
